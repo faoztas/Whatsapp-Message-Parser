@@ -1,2 +1,3 @@
 # Whatsapp-Message-Parser
-Using regex
+
+Regex kullanarak Whatsapp grup mesajları grupta bulunan kişiler dikkate alınarak giriş çıkış sayılarının tutulması amaçlanmıştır.
