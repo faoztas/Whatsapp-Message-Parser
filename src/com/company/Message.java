@@ -2,9 +2,6 @@ package com.company;
 
 import java.util.Date;
 
-/**
- * Created by ersinn on 16.08.2018.
- */
 public class Message {
 
     private final Date sentDate;
